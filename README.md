@@ -46,7 +46,7 @@ This collection progresses from foundational concepts to advanced implementation
 - **CSS3** – Advanced styling, animations, and responsive design
 - **JavaScript** – Interactive functionality and dynamic content
 
-## 📚 Skills Developed
+## 📚 Skills 
 
 By working through these projects, you'll gain:
 
