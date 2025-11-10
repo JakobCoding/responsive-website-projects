@@ -62,11 +62,6 @@ By working through these projects, you'll gain:
 - Designers wanting to implement their own responsive designs
 - Anyone preparing to learn modern JavaScript frameworks
 - Professionals building their development portfolio
-
-## 📝 Prerequisites
-
-Basic familiarity with HTML, CSS, and JavaScript is recommended but not required.
-
 ---
 
 *Building modern, responsive websites one project at a time.*
