@@ -594,3 +594,51 @@ html {
 }
 /* End of Footer */
 /* End of Container */
+
+/* Responsive */
+@media(max-width: 1600px) {
+    .banner {
+        width: 70%;
+    }
+
+    .products {
+        padding-top: 10rem;
+        height: 100vh;
+    }
+
+    .products-top {
+        width: 70%;
+    }
+
+    .products-icons {
+        width: 70%;
+    }
+
+    .pricing-cards {
+        width: 70%;
+    }
+
+    .blog-content {
+        width: 70%;
+    }
+
+    .contact-content {
+        width: 70%;
+    }
+
+    .footer {
+        width: 70%;
+    }
+}
+
+@media(max-width: 1400px) {
+    html {
+        font-size: 54%;
+    }
+
+    .pricing-top img {
+        width: 60rem;
+        margin-right: 10rem;
+    }
+}
+/* End of Responsive */
