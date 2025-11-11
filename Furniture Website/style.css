@@ -13,6 +13,7 @@ html {
 /* End of Default Styles */
 
 /* Container */
+
 /* Navbar */
 .navbar {
     width: 100%;
@@ -122,6 +123,7 @@ html {
     letter-spacing: .1rem;
 }
 /* End of Navbar */
+
 /* Landing */
 .landing {
     width: 100%;
@@ -275,6 +277,7 @@ html {
     color: #073e72;
 }
 /* End of Products */
+
 /* Pricing */
 .pricing {
     width: 100%;
@@ -393,5 +396,9 @@ html {
     font-size: 1.8rem;
 }
 /* End of Pricing */
+
+/* Blog */
+
+/* End of Blog */
 
 /* End of Container */
